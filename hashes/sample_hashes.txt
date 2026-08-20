@@ -1,0 +1,20 @@
+Password : abcd1234
+Algorithm: SHA256
+Hash     : e9cee71ab932fde863338d08be4de9dfe39ea049bdafb342ce659ec5450b69ae
+------------------------------------------------------------
+Password : hello123
+Algorithm: MD5
+Hash     : f30aa7a662c728b7407c54ae6bfd27d1
+------------------------------------------------------------
+Password : hello
+Algorithm: SHA512
+Hash     : 9b71d224bd62f3785d96d46ad3ea3d73319bfbc2890caadae2dff72519673ca72323c3d99ba5c11d7c7acc6e14b8c5da0c4663475c2e5c3adef46f73bcdec043
+------------------------------------------------------------
+Password : 59846
+Algorithm: SHA1
+Hash     : 2b4fdaca16b1b6a4838f6ef747eb2621946e1e13
+------------------------------------------------------------
+Password : ash1234
+Algorithm: SHA1
+Hash     : 739d59bbde0d1eed02b34004f01d316259ce700d
+------------------------------------------------------------
