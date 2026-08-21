@@ -1,6 +1,6 @@
 # 🔐 Password Security Analyzer
 
-### A Python-based cybersecurity portfolio project for understanding password security, hashing, entropy, salting, and brute-force search spaces.
+### A Python-based cybersecurity project for understanding password security, hashing, entropy, salting, and brute-force search spaces.
 
 ------------------------------------------------------------------------
 
